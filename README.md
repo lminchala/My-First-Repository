@@ -1,2 +1,2 @@
-# My-First-Repository-_-
+# My-First-Repository
 Created with CodeSandbox
